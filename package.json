@@ -1,0 +1,20 @@
+{
+  "name": "@mug3n96/asynclocalstorage",
+  "version": "0.2.8",
+  "description": "async way to use local storage",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "heinrich.root@outlook.de"
+  },
+  "keywords": [
+    "localStorage",
+    "asyncLocalStorage",
+    "react"
+  ],
+  "author": "heinrich",
+  "license": "ISC"
+}
