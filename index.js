@@ -2,7 +2,7 @@ const asyncLocalStorage = {
   async getItem(key) {
     const item = localStorage.getItem(key);
     if (item) 
-      return item;
+      return JSON.parse(item);
     throw new Error('ITEM_NOT_FOUND');
   },
   async setItem(key, value) {

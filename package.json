@@ -1,6 +1,6 @@
 {
   "name": "@mug3n96/asynclocalstorage",
-  "version": "0.2.8",
+  "version": "0.2.9",
   "description": "async way to use local storage",
   "main": "index.js",
   "scripts": {
